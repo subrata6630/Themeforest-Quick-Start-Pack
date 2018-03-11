@@ -1,11 +1,21 @@
 # Themeforest-Quick-Start-Pack
- build themes faster with HTML5 Blank
+ > build themes faster with HTML5 Quick Start Pack
 
 
 ### Built With Code You Can Trust:
 
-HTML5 Blank is a complete blank slate starter theme with 0 unnecessary styled elements. 
+HTML5 Quick Start Pack is a complete blank slate starter theme with 0 unnecessary styled elements. 
 It’s completely focused on simplicity and speed.
+
+
+### Code:
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
 
 ### Features:
 
