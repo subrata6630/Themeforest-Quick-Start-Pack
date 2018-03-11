@@ -9,9 +9,14 @@ It’s completely focused on simplicity and speed.
 
 ### Features:
 
-    Completely blank slate
-    Simplistic
-    Fast
+<ul>
+  <li> Completely blank slate</li>
+  <li>Simplistic</li>
+  <li>Fast</li>
+</ul>
+   
+    
+    
 
 HTML5 Blank is a good choice for you if you are already adept at CSS, and want complete control over every single element, 
 and you want absolute 0 wasted lines of code in your site.
