@@ -92,4 +92,4 @@ The following table lists the versions that UIkit is tested on. "Latest" means t
 
 License:   [MIT](https://www.subrata.me)
 
-Currently v1.0.0.
+Currently V 1.0.0.
