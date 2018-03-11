@@ -1,5 +1,5 @@
 # Themeforest-Quick-Start-Pack
- > build themes faster with HTML5 Quick Start Pack
+ > build themes faster with HTML5 Quick Start Pack.Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
 
 
 ### Built With Code You Can Trust:
