@@ -90,11 +90,11 @@ and you want absolute 0 wasted lines of code in your site.
 
 The following table lists the versions that UIkit is tested on. "Latest" means that it works just fine on all recent versions of that browser. With many browser moving towards a rolling release strategy, pinning down browser support to a specific version has become a little tricky in recent years. Long story short Quick Start pack will work on pretty much any modern browser.</br>
 
-###### License
+#### License
 
 License:   [MIT](https://www.subrata.me)
 
 
-###### version
+#### version
 
 Currently V 1.O.O.
