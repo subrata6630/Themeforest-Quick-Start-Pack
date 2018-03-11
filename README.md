@@ -8,6 +8,9 @@ HTML5 Quick Start Pack is a complete blank slate starter theme with 0 unnecessar
 It’s completely focused on simplicity and speed.
 
 
+### Installation Instructions:
+
+
 ### CSS Code:
 
 
