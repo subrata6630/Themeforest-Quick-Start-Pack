@@ -8,9 +8,50 @@ HTML5 Quick Start Pack is a complete blank slate starter theme with 0 unnecessar
 It’s completely focused on simplicity and speed.
 
 
-### Code:
+### CSS Code:
 
 
+```css
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- Fontawesome CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- Owl Carousel CSS -->
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <!--WOW CSS -->
+        <link rel="stylesheet" href="css/animate.css">
+        <!--UI KIT CSS -->
+        <link rel="stylesheet" href="css/uikit.min.css">
+        <!--Jquery Mean Memu CSS -->
+        <link rel="stylesheet" href="css/meanmenu.min.css">
+```
+
+### JS Code:
+```css
+  <!-- ALL JS HERE-->
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.2.1.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+
+        <!-- Bootstrap JS -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Owl Carousel JS -->
+        <script src="js/owl.carousel.min.js"></script>
+        <!-- WOW JS -->
+        <script src="js/wow.min.js"></script>
+        <!-- UI KIT JS -->
+        <script src="js/uikit.min.js"></script>
+        <!-- Jquery Mean Menu JS -->
+        <script src="js/jquery.meanmenu.min.js"></script>
+
+
+        <!-- Custom JS -->
+        <script src="js/custom.js"></script>
+
+```
 ### Features:
 
 <ul>
@@ -30,7 +71,7 @@ and you want absolute 0 wasted lines of code in your site.
 
 
 <ul>
-    <li> [HTML5 Boiler plate](https://www.subrata.me)</li>
+    <li>HTML5 Boiler plate</li>
     <li>Bootstrap</li>
     <li>Fontawesome</li>
     <li>Owl Carousel</li>
@@ -39,5 +80,7 @@ and you want absolute 0 wasted lines of code in your site.
     <li>UI Kit</li>
     <li>jquery mean menu-responsive menu plugin</li>
 </ul>
+
+</br>
 
 License:   [CC-BY](https://www.subrata.me)
