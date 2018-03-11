@@ -9,13 +9,7 @@ It’s completely focused on simplicity and speed.
 
 
 ### Code:
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
 
 ### Features:
 
@@ -36,7 +30,7 @@ and you want absolute 0 wasted lines of code in your site.
 
 
 <ul>
-    <li>HTML5 Boiler plate</li>
+    <li> [HTML5 Boiler plate](https://www.subrata.me)</li>
     <li>Bootstrap</li>
     <li>Fontawesome</li>
     <li>Owl Carousel</li>
@@ -45,3 +39,5 @@ and you want absolute 0 wasted lines of code in your site.
     <li>UI Kit</li>
     <li>jquery mean menu-responsive menu plugin</li>
 </ul>
+
+License:   [CC-BY](https://www.subrata.me)
