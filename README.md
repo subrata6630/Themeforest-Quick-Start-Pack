@@ -29,6 +29,9 @@ It’s completely focused on simplicity and speed.
         <link rel="stylesheet" href="css/uikit.min.css">
         <!--Jquery Mean Memu CSS -->
         <link rel="stylesheet" href="css/meanmenu.min.css">
+        <!--Simple Grid CSS -->
+        <link rel="stylesheet" href="css/simplegrid.css">
+        
 ```
 
 ### JS Code:
