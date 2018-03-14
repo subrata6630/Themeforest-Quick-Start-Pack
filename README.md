@@ -157,7 +157,7 @@ To hide a element (column, div, a, etc.) on mobile and tablets you can add the c
 <p>To see the grid in action jump on over to the <a href="http://thisisdallas.github.com/Simple-Grid/" title="Simple Grid examples">Simple Grid example page</a>.</p>
 
 
-<h3>Grid Based Web Design</h3>
+
 
 #### License
 
