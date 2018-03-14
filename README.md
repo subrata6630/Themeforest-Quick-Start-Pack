@@ -85,6 +85,7 @@ and you want absolute 0 wasted lines of code in your site.
     <li>Animate CSS</li>
     <li>UI Kit</li>
     <li>jquery mean menu-responsive menu plugin</li>
+    <li>Simple Grid</li>
 </ul>
 
 </br>
